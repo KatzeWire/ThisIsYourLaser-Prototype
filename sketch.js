@@ -44,7 +44,7 @@ var win;
 function setup() {
   //createCanvas(400, 400);
   /****** Initialize Unchanging Variables ******/
-  w = 90;
+  w = 50;
   columns = 8;
   rows = 8;
   boardRow = w*rows;
